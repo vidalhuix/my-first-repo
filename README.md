@@ -1,20 +1,19 @@
 # News Site
 
-This is a middle earth news web site, enjoy the read!
+Welcome to the Middle Earth News website—your source for all things happening in the realm. Enjoy your reading journey!
 
-## The problem
+## The Challenge
 
-I had and still have the problem of understanding how html and CSS elements and properties really work.
-I did the content of the web page in the last minute and I didn't really figured out how to show the news in a proper way in the mobile screens.
+I faced, and still face, the challenge of comprehending how HTML and CSS elements, along with their properties, truly function. The content of the webpage was put together in the last hour, and I struggled to present the news effectively on mobile screens.
 
-I have google a lot, I have seen many videos from youtube and asket quite a lot to ChatGPT too.
+Despite extensive Google searches, watching numerous YouTube videos, and seeking guidance from ChatGPT, I have not fully grasped the intricacies.
 
-If I could have more time, I would like to fix the site on the mobile screen query.
+Given more time, I aim to address the following:
 
-Improve the footer with some icons.
+- Optimize the site for mobile screens.
+- Enhance the footer by incorporating relevant icons.
+- Improve the navigation bar and links with captivating animations upon hover.
 
-And improve the navigation bar and the links with some fancy moving elements when hover over them.
+## View it Live
 
-## View it live
-
-Every project should be deployed somewhere. Be sure to include the link to the deployed project so that the viewer can click around and see what it's all about.
+Every project deserves a spot in the digital realm. Please check out the deployed project [here](#insert-your-deployed-link) to explore and experience it firsthand.
