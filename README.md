@@ -16,4 +16,4 @@ Given more time, I aim to address the following:
 
 ## View it Live
 
-Every project deserves a spot in the digital realm. Please check out the deployed project [here]([(https://middlearthnewssite.netlify.app/)https://middlearthnewssite.netlify.app/]) to explore and experience it firsthand.
+Every project deserves a spot in the digital realm. Please check out the deployed project [here](https://middlearthnewssite.netlify.app/) to explore and experience it firsthand.
